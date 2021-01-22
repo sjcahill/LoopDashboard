@@ -1,4 +1,6 @@
 # Some useful scripts that I often need,
+import pandas as pd
+import os
 
 
 # Translates my local C directory into my wsl mnt
@@ -131,15 +133,60 @@ def merge_columns_by_add(df, target, columns, column_dict):
     return df, column_dict 
 
 def drop_and_normalize(df1, df2):
+    '''
+    Function that takes in the data table and the metadata tables
+    and drops certain columns/rows to get rid of extraneous info so that the rows
+    in medata map to columns so we can look at metadata info and see what info a 
+    column contains
+    
+    Parameters:
+        df1: should be the actual subject table dataframe
+        df2: the metadata dataframe
+    '''
     df1.drop(columns=['GEO_ID', 'NAME'], inplace=True)
     df2.drop(index=0, axis=0, inplace=True)
     df2.reset_index(drop=True, inplace=True)
-    # Subtracting 3 to S0101_data.shape[1] to account for the our creation of 3 new columns
+    # Subtracting 4 to S0101_data.shape[1] to account for the our creation of 3 new columns
     assert (df1.shape[1]-4 == df2.shape[0]), print('mismatch in metadata and data correspondence')
     return df1, df2
 
 def create_wanted_columns(df1, df2, i_list):
+    '''
+    Function to generate a list of columns that we want to extract from the subject table.
+    Since a lot of the columns are of no interest to us, this will save us time and memory.
+    The only drawback is that one has to manually populate a list of of indices by looking at 
+    the metadata table and picking out which columns we want
+    
+    Parameters:
+        df1: subject datatable
+        df2: subject metadata table
+        i_list: list of indicies corresponding to rows in metadata table, will be the columns of subject table.
+        '''
     wc = df2.GEO_ID.iloc[i_list].to_list()
     ac = list(df1.columns[-4:])
     wc.extend(ac)
     return wc
+
+def reform_dict(dictionary):
+    '''
+    Function that attempts to clean up the metadata info so it is a bit more readable.
+    Don't need to return anything since the operations affect dictionary in global namespace.
+    
+    Parameters: 
+        dictionary: meta_dictionary to be cleaned up.    
+    '''
+    for i in dictionary.keys():
+        if '!' in dictionary[i]:
+            split_list = dictionary[i].split('!!')
+            dictionary[i] = "_".join(split_list[1:])
+    return
+
+def dict_to_metadata(dictionary, name):
+    
+    pd_metadata_path = 'data/processed_data/metadata'
+    s = pd.Series(dictionary)
+    #s.sort_values(inplace=True)
+    with open(os.path.join(pd_metadata_path, name), 'w', newline='') as outputfile:
+        s.to_csv(outputfile, header=True, index=True)
+    print(f'Successfully created metadata table at {os.path.join(pd_metadata_path, name)}')
+    return
