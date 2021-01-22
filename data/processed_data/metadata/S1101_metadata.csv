@@ -1,0 +1,13 @@
+,0
+S1101_C01_001E,Total_HOUSEHOLDS_Total households
+S1101_C01_002E,Total_HOUSEHOLDS_Average household size
+S1101_C01_003E,Total_FAMILIES_Total families
+S1101_C01_004E,Total_FAMILIES_Average family size
+S1101_C02_001E,Married-couple family household_HOUSEHOLDS_Total households
+S1101_C02_002E,Married-couple family household_HOUSEHOLDS_Average household size
+S1101_C02_003E,Married-couple family household_FAMILIES_Total families
+S1101_C02_004E,Married-couple family household_FAMILIES_Average family size
+FIPS,_fips
+STATEFP,_statefp
+COUNTYFP,_countyfp
+TRACTCE,_tractce

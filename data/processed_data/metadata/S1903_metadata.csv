@@ -1,0 +1,85 @@
+,0
+S1903_C01_001E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households
+S1903_C01_002E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_White
+S1903_C01_003E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Black or African American
+S1903_C01_004E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_American Indian and Alaska Native
+S1903_C01_005E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Asian
+S1903_C01_006E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Native Hawaiian and Other Pacific Islander
+S1903_C01_007E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Some other race
+S1903_C01_008E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_Two or more races
+S1903_C01_009E,Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_Hispanic or Latino origin (of any race)
+S1903_C01_010E,"Number_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_White alone, not Hispanic or Latino"
+S1903_C01_011E,Number_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_15 to 24 years
+S1903_C01_012E,Number_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_25 to 44 years
+S1903_C01_013E,Number_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_45 to 64 years
+S1903_C01_014E,Number_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_65 years and over
+S1903_C01_015E,Number_FAMILIES_Families
+S1903_C01_016E,Number_FAMILIES_Families_With own children of householder under 18 years
+S1903_C01_017E,Number_FAMILIES_Families_With no own children of householder under 18 years
+S1903_C01_018E,Number_FAMILIES_Families_Married-couple families
+S1903_C01_019E,Number_FAMILIES_Families_Married-couple families_With own children under 18 years
+S1903_C01_020E,"Number_FAMILIES_Families_Female householder, no spouse present"
+S1903_C01_021E,"Number_FAMILIES_Families_Female householder, no spouse present_With own children under 18 years"
+S1903_C01_022E,"Number_FAMILIES_Families_Male householder, no spouse present"
+S1903_C01_023E,"Number_FAMILIES_Families_Male householder, no spouse present_With own children under 18 years"
+S1903_C01_024E,Number_FAMILY INCOME BY FAMILY SIZE_2-person families
+S1903_C01_025E,Number_FAMILY INCOME BY FAMILY SIZE_3-person families
+S1903_C01_026E,Number_FAMILY INCOME BY FAMILY SIZE_4-person families
+S1903_C01_027E,Number_FAMILY INCOME BY FAMILY SIZE_5-person families
+S1903_C01_028E,Number_FAMILY INCOME BY FAMILY SIZE_6-person families
+S1903_C01_029E,Number_FAMILY INCOME BY FAMILY SIZE_7-or-more person families
+S1903_C01_030E,Number_FAMILY INCOME BY NUMBER OF EARNERS_No earners
+S1903_C01_031E,Number_FAMILY INCOME BY NUMBER OF EARNERS_1 earner
+S1903_C01_032E,Number_FAMILY INCOME BY NUMBER OF EARNERS_2 earners
+S1903_C01_033E,Number_FAMILY INCOME BY NUMBER OF EARNERS_3 or more earners
+S1903_C01_034E,Number_NONFAMILY HOUSEHOLDS_Nonfamily households
+S1903_C01_035E,Number_NONFAMILY HOUSEHOLDS_Nonfamily households_Female householder
+S1903_C01_036E,Number_NONFAMILY HOUSEHOLDS_Nonfamily households_Female householder_Living alone
+S1903_C01_037E,Number_NONFAMILY HOUSEHOLDS_Nonfamily households_Female householder_Not living alone
+S1903_C01_038E,Number_NONFAMILY HOUSEHOLDS_Nonfamily households_Male householder
+S1903_C01_039E,Number_NONFAMILY HOUSEHOLDS_Nonfamily households_Male householder_Living alone
+S1903_C01_040E,Number_NONFAMILY HOUSEHOLDS_Nonfamily households_Male householder_Not living alone
+S1903_C03_001E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households
+S1903_C03_002E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_White
+S1903_C03_003E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Black or African American
+S1903_C03_004E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_American Indian and Alaska Native
+S1903_C03_005E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Asian
+S1903_C03_006E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Native Hawaiian and Other Pacific Islander
+S1903_C03_007E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_One race--_Some other race
+S1903_C03_008E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_Two or more races
+S1903_C03_009E,Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_Hispanic or Latino origin (of any race)
+S1903_C03_010E,"Median income (dollars)_HOUSEHOLD INCOME BY RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER_Households_White alone, not Hispanic or Latino"
+S1903_C03_011E,Median income (dollars)_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_15 to 24 years
+S1903_C03_012E,Median income (dollars)_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_25 to 44 years
+S1903_C03_013E,Median income (dollars)_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_45 to 64 years
+S1903_C03_014E,Median income (dollars)_HOUSEHOLD INCOME BY AGE OF HOUSEHOLDER_65 years and over
+S1903_C03_015E,Median income (dollars)_FAMILIES_Families
+S1903_C03_016E,Median income (dollars)_FAMILIES_Families_With own children of householder under 18 years
+S1903_C03_017E,Median income (dollars)_FAMILIES_Families_With no own children of householder under 18 years
+S1903_C03_018E,Median income (dollars)_FAMILIES_Families_Married-couple families
+S1903_C03_019E,Median income (dollars)_FAMILIES_Families_Married-couple families_With own children under 18 years
+S1903_C03_020E,"Median income (dollars)_FAMILIES_Families_Female householder, no spouse present"
+S1903_C03_021E,"Median income (dollars)_FAMILIES_Families_Female householder, no spouse present_With own children under 18 years"
+S1903_C03_022E,"Median income (dollars)_FAMILIES_Families_Male householder, no spouse present"
+S1903_C03_023E,"Median income (dollars)_FAMILIES_Families_Male householder, no spouse present_With own children under 18 years"
+S1903_C03_024E,Median income (dollars)_FAMILY INCOME BY FAMILY SIZE_2-person families
+S1903_C03_025E,Median income (dollars)_FAMILY INCOME BY FAMILY SIZE_3-person families
+S1903_C03_026E,Median income (dollars)_FAMILY INCOME BY FAMILY SIZE_4-person families
+S1903_C03_027E,Median income (dollars)_FAMILY INCOME BY FAMILY SIZE_5-person families
+S1903_C03_028E,Median income (dollars)_FAMILY INCOME BY FAMILY SIZE_6-person families
+S1903_C03_029E,Median income (dollars)_FAMILY INCOME BY FAMILY SIZE_7-or-more person families
+S1903_C03_030E,Median income (dollars)_FAMILY INCOME BY NUMBER OF EARNERS_No earners
+S1903_C03_031E,Median income (dollars)_FAMILY INCOME BY NUMBER OF EARNERS_1 earner
+S1903_C03_032E,Median income (dollars)_FAMILY INCOME BY NUMBER OF EARNERS_2 earners
+S1903_C03_033E,Median income (dollars)_FAMILY INCOME BY NUMBER OF EARNERS_3 or more earners
+S1903_C03_034E,Median income (dollars)_NONFAMILY HOUSEHOLDS_Nonfamily households
+S1903_C03_035E,Median income (dollars)_NONFAMILY HOUSEHOLDS_Nonfamily households_Female householder
+S1903_C03_036E,Median income (dollars)_NONFAMILY HOUSEHOLDS_Nonfamily households_Female householder_Living alone
+S1903_C03_037E,Median income (dollars)_NONFAMILY HOUSEHOLDS_Nonfamily households_Female householder_Not living alone
+S1903_C03_038E,Median income (dollars)_NONFAMILY HOUSEHOLDS_Nonfamily households_Male householder
+S1903_C03_039E,Median income (dollars)_NONFAMILY HOUSEHOLDS_Nonfamily households_Male householder_Living alone
+S1903_C03_040E,Median income (dollars)_NONFAMILY HOUSEHOLDS_Nonfamily households_Male householder_Not living alone
+FIPS,_fips
+STATEFP,_statefp
+COUNTYFP,_countyfp
+TRACTCE,_tractce

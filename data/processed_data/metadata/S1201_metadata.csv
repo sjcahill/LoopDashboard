@@ -1,0 +1,21 @@
+,0
+S1201_C01_001E,Total_Population 15 years and over
+S1201_C01_017E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_One race
+S1201_C01_018E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_One race_White
+S1201_C01_019E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_One race_Black or African American
+S1201_C01_020E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_One race_American Indian and Alaska Native
+S1201_C01_021E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_One race_Asian
+S1201_C01_022E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_One race_Native Hawaiian and Other Pacific Islander
+S1201_C01_023E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_One race_Some other race
+S1201_C01_024E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_Two or more races
+S1201_C01_025E,Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_Hispanic or Latino origin (of any race)
+S1201_C01_026E,"Total_Population 15 years and over_RACE AND HISPANIC OR LATINO ORIGIN_White alone, not Hispanic or Latino"
+S1201_C02_001E,Now married (except separated)_Population 15 years and over
+S1201_C03_001E,Widowed_Population 15 years and over
+S1201_C04_001E,Divorced_Population 15 years and over
+S1201_C05_001E,Separated_Population 15 years and over
+S1201_C06_001E,Never married_Population 15 years and over
+FIPS,_fips
+STATEFP,_statefp
+COUNTYFP,_countyfp
+TRACTCE,_tractce

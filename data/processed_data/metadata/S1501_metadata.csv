@@ -1,0 +1,19 @@
+,0
+S1501_C01_001E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 18 to 24 years
+S1501_C01_002E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 18 to 24 years_Less than high school graduate
+S1501_C01_003E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 18 to 24 years_High school graduate (includes equivalency)
+S1501_C01_004E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 18 to 24 years_Some college or associate's degree
+S1501_C01_005E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 18 to 24 years_Bachelor's degree or higher
+S1501_C01_006E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over
+S1501_C01_007E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_Less than 9th grade
+S1501_C01_008E,"Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_9th to 12th grade, no diploma"
+S1501_C01_009E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_High school graduate (includes equivalency)
+S1501_C01_010E,"Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_Some college, no degree"
+S1501_C01_011E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_Associate's degree
+S1501_C01_012E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_Bachelor's degree
+S1501_C01_013E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_Graduate or professional degree
+S1501_C01_014E,Total_AGE BY EDUCATIONAL ATTAINMENT_Population 25 years and over_High school graduate or higher
+FIPS,_fips
+STATEFP,_statefp
+COUNTYFP,_countyfp
+TRACTCE,_tractce

@@ -190,3 +190,27 @@ def dict_to_metadata(dictionary, name):
         s.to_csv(outputfile, header=True, index=True)
     print(f'Successfully created metadata table at {os.path.join(pd_metadata_path, name)}')
     return
+
+def get_subject_table_data(name):
+    st_dd = 'data/subject_tables/unzipped_files/'
+    df_d = pd.DataFrame()
+    df_m = pd.DataFrame
+    for i in os.listdir(st_dd):
+        if name in i:
+            for j in os.listdir(os.path.join(st_dd, i)):
+                if 'data_with_overlays' in j:
+                    df_d = pd.read_csv(os.path.join(st_dd, i, j), low_memory=False)
+                if 'metadata' in j:
+                    df_m = pd.read_csv(os.path.join(st_dd, i, j))    
+    return df_d, df_m
+
+def write_datafile(df, name):
+    write_path = 'data/processed_data/totals'
+    df.drop(index=0, axis=0, inplace=True)
+    df.reset_index(drop=True, inplace=True)
+    
+    with open(os.path.join(write_path, name), 'w', newline='') as outputfile:
+        df.to_csv(outputfile, header=True, index=False)        
+          
+    print(f'Successfully created metadata table at {os.path.join(write_path, name)}')
+    return 
