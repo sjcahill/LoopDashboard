@@ -1,0 +1,39 @@
+,0
+S0601_C01_001E,Total_Total population
+S0601_C01_011E,Total_Total population_SEX_Male
+S0601_C01_012E,Total_Total population_SEX_Female
+S0601_C01_013E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_One race
+S0601_C01_014E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_One race_White
+S0601_C01_015E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_One race_Black or African American
+S0601_C01_016E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_One race_American Indian and Alaska Native
+S0601_C01_017E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_One race_Asian
+S0601_C01_018E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_One race_Native Hawaiian and Other Pacific Islander
+S0601_C01_019E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_One race_Some other race
+S0601_C01_020E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_Two or more races
+S0601_C01_021E,Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_Hispanic or Latino origin (of any race)
+S0601_C01_022E,"Total_Total population_RACE AND HISPANIC OR LATINO ORIGIN_White alone, not Hispanic or Latino"
+S0601_C01_023E,Total_LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH_Population 5 years and over
+S0601_C01_024E,Total_LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH_Population 5 years and over_Speak language other than English
+S0601_C01_025E,"Total_LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH_Population 5 years and over_Speak language other than English_Speak English  very well"""""
+S0601_C01_026E,"Total_LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH_Population 5 years and over_Speak language other than English_Speak English less than very well"""""
+S0601_C01_027E,Total_MARITAL STATUS_Population 15 years and over
+S0601_C01_028E,Total_MARITAL STATUS_Population 15 years and over_Never married
+S0601_C01_034E,Total_EDUCATIONAL ATTAINMENT_Population 25 years and over_High school graduate (includes equivalency)
+S0601_C01_035E,Total_EDUCATIONAL ATTAINMENT_Population 25 years and over_Some college or associate's degree
+S0601_C01_036E,Total_EDUCATIONAL ATTAINMENT_Population 25 years and over_Bachelor's degree
+S0601_C01_037E,Total_EDUCATIONAL ATTAINMENT_Population 25 years and over_Graduate or professional degree
+S0601_C01_038E,Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over
+S0601_C01_039E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$1 to $9,999 or loss"
+S0601_C01_040E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$10,000 to $14,999"
+S0601_C01_041E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$15,000 to $24,999"
+S0601_C01_042E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$25,000 to $34,999"
+S0601_C01_043E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$35,000 to $49,999"
+S0601_C01_044E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$50,000 to $64,999"
+S0601_C01_045E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$65,000 to $74,999"
+S0601_C01_046E,"Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_$75,000 or more"
+S0601_C01_047E,Total_INDIVIDUALS' INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)_Population 15 years and over_Median income (dollars)
+S0601_C01_048E,Total_POVERTY STATUS IN THE PAST 12 MONTHS_Population for whom poverty status is determined
+FIPS,_fips
+STATEFP,_statefp
+COUNTYFP,_countyfp
+TRACTCE,_tractce
