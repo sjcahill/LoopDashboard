@@ -1,0 +1,10 @@
+,0
+S2501_C01_001E,Occupied housing units_Occupied housing units
+S2501_C01_002E,Occupied housing units_Occupied housing units_HOUSEHOLD SIZE_1-person household
+S2501_C01_003E,Occupied housing units_Occupied housing units_HOUSEHOLD SIZE_2-person household
+S2501_C01_004E,Occupied housing units_Occupied housing units_HOUSEHOLD SIZE_3-person household
+S2501_C01_005E,Occupied housing units_Occupied housing units_HOUSEHOLD SIZE_4-or-more-person household
+FIPS,_fips
+STATEFP,_statefp
+COUNTYFP,_countyfp
+TRACTCE,_tractce
